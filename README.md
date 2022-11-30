@@ -1,6 +1,6 @@
 # TEH2022.1
 
-Links para os projetos desenvolvidos na disciplina SINFTópicos Especiais de Hardware 2022.1 ofertada pelo DSI/UFS, sob supervisão do Prof. André Silva
+Links para os projetos desenvolvidos na disciplina SINF0070 - TÓPICOS ESPECIAIS EM HARDWARE no período 2022.1 ofertada pelo DSI/UFS, sob supervisão do Prof. André Silva
 
 1. **[Eugene - Sistema de identificação e segurança de estudantes](https://github.com/Sinu-Tech/Eugene)**
 2. bbb
