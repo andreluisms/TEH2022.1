@@ -1,7 +1,9 @@
-# Universidade Federal de Sergipe
-# Departamento de Sistemas de Informação
 # SINF0070 - TÓPICOS ESPECIAIS EM HARDWARE  - 2022.1
-# Prof.: André Luis Meneses Silva
+
+_Universidade Federal de Sergipe
+Departamento de Sistemas de Informação
+Prof.: André Luis Meneses Silva
+_
 
 Links para os projetos desenvolvidos na disciplina:
 
